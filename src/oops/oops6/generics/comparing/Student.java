@@ -15,8 +15,5 @@ public class Student implements Comparable<Student> {
         return (int)(this.marks - other.marks);
     }
 
-    public Student(int rollno, float marks) {
-        
-    }
     
 }
