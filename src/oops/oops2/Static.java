@@ -2,9 +2,9 @@ package oops.oops2;
 
 public class Static {
     public static void main(String[] args){
-        Human rose=new Human(20,"Roshan",177);
-        Human ash=new Human(20,"Ashika",155);
-        Human aro=new Human(20,"Arockiya",157);
+        // Human rose=new Human(20,"Roshan",177);
+        // Human ash=new Human(20,"Ashika",155);
+        // Human aro=new Human(20,"Arockiya",157);
 
 
 

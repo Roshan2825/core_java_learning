@@ -2,10 +2,10 @@ package oops.oops1;
 
 public class GarbageCol {
     public static void main(String[] args) {
-        A obj;
-        for(int i=0;i<100000000;i++){
-            obj=new A("random name");
-        }
+        // A obj;
+        // for(int i=0;i<100000000;i++){
+        //     obj=new A("random name");
+        // }
     
        
     }
